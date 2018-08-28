@@ -1,1 +1,1 @@
-# CMPE257_ML Coursework ASsignments
+# CMPE257_ML Coursework Assignments
